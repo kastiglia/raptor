@@ -6,6 +6,8 @@
 
 ![Demo](./assets/demo.gif)
 
+[It's a Unix system](https://youtu.be/dFUlAQZB9Ng?si=Xwjish_MCRif8j7A)
+
 ---
 
 ## What Is This?
