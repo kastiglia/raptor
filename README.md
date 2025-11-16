@@ -58,7 +58,6 @@ RAPTOR turns your directories and files into a neon-green cyber-grid of chunky b
 * `l` → Right
 * `o` or `Enter` → Enter directory
 * `u` or `-` → Go to parent
-* `.` → To show hidden files
 * `/` → Go to root
 * `Home` → Go to home directory
 * `Backspace/Esc` → Back in history
@@ -70,7 +69,7 @@ RAPTOR turns your directories and files into a neon-green cyber-grid of chunky b
 * Double click → Enter directory
 
 ### **UI**
-
+* `.`   → Toggle hidden files
 * `Tab` → Toggle labels
 
 
