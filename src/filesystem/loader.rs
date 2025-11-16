@@ -13,8 +13,6 @@ pub fn load_directory(
 ) -> Result<DirectoryContents, std::io::Error> {
     let read_dir = fs::read_dir(path)?;
 
-    println!("{}", show_hidden);
-
     let mut nodes: Vec<FileNode> = read_dir
         .filter_map(|entry| entry.ok())
         .filter(|entry| {
